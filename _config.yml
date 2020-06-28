@@ -34,7 +34,7 @@ paginate_path: "/blog/page:num/"
 collections:
     wiki:
         output: true
-        permalink: /w/:path/
+        permalink: /:collection/:path/
 
 # Comment Service
 disqus:
