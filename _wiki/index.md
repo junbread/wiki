@@ -12,6 +12,7 @@ regenerate: true
 * [[vs-code]]
 * [[WSL]]
 * [[operating-system]]
+* [[bash]]
 
 ---
 
