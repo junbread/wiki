@@ -47,7 +47,7 @@ utterances:
   branch: master
 
 google_analytics:
-  ua:
+  ua: UA-167309833-2
 google_adsense:
   client:
 
