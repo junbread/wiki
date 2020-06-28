@@ -20,6 +20,6 @@ rm -f ./naver*.html ./google*.html
 head ./about.md > new-about.md
 mv ./new-about.md about.md
 
-git fetch skeleton
-git reset skeleton/master
+git fetch template/master
+git reset template/master
 

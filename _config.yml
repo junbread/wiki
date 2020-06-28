@@ -1,17 +1,17 @@
 # Site settings
-title: blog title
-url: "https://example.github.io"
+title: BreadWiki
+url: "https://wiki.junbread.win"
 baseurl: ""
 description: >
-    blog description
+    personal develop note wiki
 
 # My information
-email:
-author:
-profile:
+email: me@junbread.win
+author: Junbread
+profile: 
 twitter_username: 
-github_username:
-comment-support:
+github_username: junbread
+comment-support: utterances
 
 # Build settings
 plugins:
@@ -41,18 +41,18 @@ disqus:
   id:
   shortname:
 utterances:
-  repo:
-  issue-term:
-  label:
-  branch:
+  repo: junbread/wiki
+  issue-term: pathname
+  label: comment
+  branch: master
 
 google_analytics:
   ua:
 google_adsense:
   client:
 
-blame:
-edit:
-issue:
+blame: "https://github.com/junbread/wiki/blame/master/_wiki"
+edit: "https://github.com/junbread/wiki/edit/master/_wiki"
+issue: "https://github.com/junbread/wiki/issues/new"
 
 timezone: "Asia/Seoul"
