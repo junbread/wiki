@@ -3,7 +3,7 @@ index:
     title: wiki
     summary: null
     parent: null
-    url: /w/index
+    url: /wiki/index
     updated: null
     children: []
 vs-code:
@@ -11,14 +11,14 @@ vs-code:
     title: 'VS Code'
     summary: ""
     parent: ""
-    url: /w/vs-code
+    url: /wiki/vs-code
     updated: '2020-06-28 20:34:55 +0900'
     children: []
-WSL:
+wsl:
     type: wiki
     title: WSL
     summary: 'Windows에서 간편하게 사용하는 Linux'
     parent: ""
-    url: /w/WSL
+    url: /wiki/wsl
     updated: '2020-06-28 20:57:32 +0900'
     children: []

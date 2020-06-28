@@ -10,6 +10,8 @@ regenerate: true
 ## wiki items
 
 * [[vs-code]]
+* [[WSL]]
+* [[operating-system]]
 
 ---
 

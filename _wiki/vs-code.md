@@ -4,7 +4,7 @@ title   : VS Code
 summary : 
 date    : 2020-06-28 18:43:31 +0900
 updated : 2020-06-28 20:34:55 +0900
-tag     : editor
+tag     : tools editor
 toc     : true
 public  : true
 parent  : 

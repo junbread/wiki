@@ -1,4 +1,5 @@
+tools:
+    - {fileName: vs-code}
+    - {fileName: wsl}
 editor:
     - {fileName: vs-code}
-tools:
-    - {fileName: WSL}
