@@ -1,10 +1,10 @@
 ---
 layout  : wiki
-title   : 
-summary : 
+title   : WSL
+summary : Windows에서 간편하게 사용하는 Linux
 date    : 2020-06-28 20:39:13 +0900
-updated : 2020-06-28 20:55:08 +0900
-tag     : 
+updated : 2020-06-28 20:57:32 +0900
+tag     : tools 
 toc     : true
 public  : true
 parent  : 
@@ -13,9 +13,9 @@ latex   : false
 * TOC
 {:toc}
 
-## 개요
-
 **W**indows **S**ubsystem for **L**inux
+
+## 개요
 
 Windows에서 리눅스를 구동할 수 있게 해 준다. WSL 1은 리눅스 시스템 콜을 Windows 시스템 콜로 번역하는 식으로 이루어졌지만 WSL 2부터는 Hyper-V를 이용해 구동된다.
 

@@ -16,9 +16,9 @@ vs-code:
     children: []
 WSL:
     type: wiki
-    title: ""
-    summary: ""
+    title: WSL
+    summary: 'Windows에서 간편하게 사용하는 Linux'
     parent: ""
     url: /w/WSL
-    updated: '2020-06-28 20:55:08 +0900'
+    updated: '2020-06-28 20:57:32 +0900'
     children: []
