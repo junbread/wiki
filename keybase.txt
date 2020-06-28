@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/junbread
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://junbread.win
+  * I am junbread (https://keybase.io/junbread) on keybase.
+  * I have a public key with fingerprint A0E1 219F 2BEB 1976 89F7  FB11 4A85 A973 BDCF 6088
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012003373c16337f969920786b4dcc18bdc24c609e1cb628c5a0ee7c1ae067b9396f0a",
+      "fingerprint": "a0e1219f2beb197689f7fb114a85a973bdcf6088",
+      "host": "keybase.io",
+      "key_id": "4a85a973bdcf6088",
+      "kid": "010169fe89b738707e73f3931207a4289420788b5918ae8f92a131ea373f7d3973ea0a",
+      "uid": "3f54a688437852b4ebfdbb07ae0eb019",
+      "username": "junbread"
+    },
+    "service": {
+      "hostname": "junbread.win",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1591031455,
+  "expire_in": 157680000,
+  "prev": "1a0c4ddedb7f4a6f81c3056e20579e214c0201fbc6d12369102b6658562b04e2",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtkn1MVWUcxwE15SaF42UL84UD5tvVPc95zutd4ixfsk0qaED90e15znkeOHk5
+93LvASUUXeOq2DJhpGhNQWNZCUNYri1svYx55aUGkltugi1KjWZLSwRa9hwW/7TO
+P8/O73y/n/P9/vYcTpoV54l/Nvph5MK3rx6I771F4l75Tnm/SiBBs1LwVQnb6fRB
+AyaNOP7tlin4BABFABBSkQEVfjBd0XURqJpCJNMwoEZMQ5QMBegUGkQRNUPGgFLV
+gJgCRSU60hUGsOAVmGUX03AobNkOx3IRFKHOREIJ1FVF05nKCIQS1mSsq4hjmQI0
+jRtLghHXwcMRHKFrrSCf8Rf/dLz/0c/kBlDRGdV0oiJNBSpVEUM64nVULImaLrkt
+NCLrUMNUY7qIIYIU86ZMNRFHUjydu3wah5gsYUXTJKRqskgkSphJCEdRQAmAuiuM
+0LCNSylXv1ZukzDFprDbK/BphWVQd7Fuk/8o1u6wbO4NhYNO0AgG+JcSxwlFfK7T
+qQy50h2U+P+F+Illm3yP3FFBwxEraAs+yJWGY7lUyMsABCVZ9gp0Z8gKU7/lKmS+
+X8Af9z+0giMhBoZkmi9Rk6iM92IaNBCQFSoCWdWpCCUDiAAyYigmFJHCsSJRFFmT
+FZEAiYqC26vMDgo+BHlQXMyhEavYxk55mAq7PbXxnbPj4j1xi9IzZzf9kHly9dhj
+FbXjUwtmLt+cBPfmxXkSk2cmZwYefkC6Nv16oysbB84lj7Z//8xAz875c1Kyvvp9
+Ch/NkooaQMcfe5eUFL4Tag+lmxM5uW9ad1MPbur+bX3HgcJbY6djR8/OvZ1wcJhd
+u7kfFyw9vvhP+Mmpkbqi/Xd6vj5fc6Gu7cf6E0U//zU0mFk9WV9zPFYweGle6oPB
+5xKfvtgwktUCqqcmasrqIgNXPk7c0/1p/2grAlX+3OurOhvbkLM84F9zMt9h35wd
+ebJQvjqUca+x6tKL3rnrP+hv+6L384nmJSv63juyrny45tGGUbt71uQueHmfUun9
+KfWhrSnvNmen2ZlH+k/hNRkvpwXMyvFDrSvHai+/3nU3idGeK9cGyyY7C5aJLQ3F
+ybF7Gd0bX9iwOW/fL3l9fSdI4+38BbltN+83pUxta1m6esuWJ2Kd198Ybv4s6UZR
+o9W00H84e9359N6OxxPm61+W5lWfy8qJvu3LX2HiZcsXrjTvt27w5tyhpfNiaem7
+okN7Psq9GG0/k/LU4o1X944u8jy/6q36beN/958+tjna/sg/
+=lFrQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/junbread
+
+==================================================================
