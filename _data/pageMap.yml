@@ -3,7 +3,7 @@ how-to:
     title: 'HOW TO'
     summary: null
     parent: index
-    url: /wiki/how-to
+    url: /w/how-to
     updated: '2018-02-04 15:57:05 +0900'
     children: [mathjax-latex]
 index:
@@ -11,7 +11,7 @@ index:
     title: wiki
     summary: null
     parent: null
-    url: /wiki/index
+    url: /w/index
     updated: null
     children: []
 mathjax-latex:
@@ -19,6 +19,14 @@ mathjax-latex:
     title: 'MathJax로 LaTeX 사용하기'
     summary: null
     parent: how-to
-    url: /wiki/mathjax-latex
+    url: /w/mathjax-latex
     updated: '2019-11-04 22:13:47 +0900'
+    children: []
+vs-code:
+    type: wiki
+    title: 'VS Code'
+    summary: ""
+    parent: ""
+    url: /w/vs-code
+    updated: '2020-06-28 18:45:04 +0900'
     children: []
