@@ -1,4 +1,7 @@
+linux:
+    - {fileName: bash}
 tools:
+    - {fileName: bash}
     - {fileName: vs-code}
     - {fileName: wsl}
 editor:
