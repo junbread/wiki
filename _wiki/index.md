@@ -9,7 +9,6 @@ regenerate: true
 
 ## wiki items
 
-* [[mathjax-latex]]
 * [[vs-code]]
 
 ---
