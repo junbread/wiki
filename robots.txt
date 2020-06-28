@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wiki.junbread.win/sitemap.xml
+Sitemap: https://junbread.win/sitemap.xml
