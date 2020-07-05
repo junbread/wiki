@@ -3,7 +3,7 @@ layout  : wiki
 title   : Bash
 summary : 가장 널리 쓰이는 리눅스 셸
 date    : 2020-06-29 02:15:11 +0900
-updated : 2020-06-29 02:29:42 +0900
+updated : 2020-07-05 19:32:58 +0900
 tag     : linux tools
 toc     : true
 public  : true
@@ -18,6 +18,13 @@ latex   : false
 가장 널리 쓰이는 리눅스 셸. 많은 배포판에서 기본 셸로 지정되어 있다.
 
 fish와 zsh도 사용해 봤지만, 가볍고 범용적인 bash로 결국 돌아오게 된다.
+
+## Cheetsheet
+
+직접적으로 Bash와 관련 없지만 터미널 전반적인 명령어 사용법도 함께 수록한다.
+
+- `cd -`: 직전 히스토리로 돌아가기
+- `!!`: 직전 사용 명령어. `sudo !!` 식으로 사용하면 깜빡하고 `sudo`를 붙이지 않은 명령어를 다시 입력할 필요가 없다.
 
 ## 사용 노하우
 
@@ -37,3 +44,4 @@ PS1='${debian_chroot:+($debian_chroot)}\h:\w
 ```
 
 자세한 설정은 [이 파일](https://github.com/junbread/dotfiles/tree/master/bashrc)을 참고하면 된다.
+
