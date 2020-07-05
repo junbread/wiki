@@ -4,7 +4,7 @@ bash:
     summary: '가장 널리 쓰이는 리눅스 셸'
     parent: ""
     url: /wiki/bash
-    updated: '2020-06-29 02:29:42 +0900'
+    updated: '2020-07-05 19:32:58 +0900'
     children: []
 index:
     type: wiki
