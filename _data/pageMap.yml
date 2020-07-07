@@ -22,11 +22,11 @@ vs-code:
     url: /wiki/vs-code
     updated: '2020-06-28 20:34:55 +0900'
     children: []
-wsl:
+WSL:
     type: wiki
     title: WSL
     summary: 'Windows에서 간편하게 사용하는 Linux'
     parent: ""
-    url: /wiki/wsl
-    updated: '2020-06-28 20:57:32 +0900'
+    url: /wiki/WSL
+    updated: '2020-07-07 16:40:07 +0900'
     children: []

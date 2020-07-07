@@ -3,6 +3,6 @@ linux:
 tools:
     - {fileName: bash}
     - {fileName: vs-code}
-    - {fileName: wsl}
+    - {fileName: WSL}
 editor:
     - {fileName: vs-code}
