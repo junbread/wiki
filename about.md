@@ -16,6 +16,9 @@ latex: true
 
 ## History
 
+- <small>**2020.07 ~ 2020.08**</small> Samsung Electronics (CE/IM)
+  - Student Internship
+  - Developed TV voice assistant automated test tool 
 - <small>**2016.11 ~ 2018.11**</small> ROKAF Information Systems Management Wing
   - Sergeant (mandatory military service soldier)
   - S/W development and maintenence
